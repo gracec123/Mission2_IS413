@@ -1,4 +1,11 @@
-﻿using Mission2_IS413;
+﻿//Name: Wing Yu Chu
+//Section: 2
+//Description: Allow the user to choose how many times the “dice” will be thrown. Then, once you have the
+//number of rolls, pass that number to a second class that has a method that simulates the roll of
+// the dice for the number of times that the user specified. Shows the total percentage each number was rolled. Each * will represent
+// 1 % of the total rolls.
+
+using Mission2_IS413;
 using System;
 using System.Xml.Linq;
 
